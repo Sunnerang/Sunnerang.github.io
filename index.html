@@ -2,20 +2,59 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sunnerängs Golvläggeri</title>
     <link rel="icon" type="image/png" href="./logo.png">
     <style>
-        body {background-image: url("./background.png"); background-size: cover; background-repeat: no-repeat; text-align: center; margin: 15%;}
-        .box {background-color:rgba(235, 245, 253, 0.9); padding: 10px;}
-
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        .hero-section {
+            background-image: url('background.png'); /* Change 'background.jpg' to your image file */
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+        }
+        .content {
+            max-width: 1000px;
+            padding: 20px;
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.8); /* Adjust the transparency by changing the last value (0.5) */
+            border-radius: 10px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+	    color: #000;
+        }
+	h2 {
+	    color: #000;
+	}
+        p {
+            font-size: 1rem;
+	    color: #000;
+        }
+	.content ul {
+	    list-style-type: none;
+	    color: #000;
+	    margin-left: 0;
+	    padding-left: 0;
+	    text-align: center;
+	}
     </style>
 </head>
 <body>
-    <div class="box">
+
+    <div class="hero-section">
         <div class="content">
             <img src="./logo.png" alt="logo" width="100">
             <h1>Sunnerängs Golvläggeri</h1>
-            <hr>
             <p>
                 Sunnerängs Golvläggeri är en enmansfirma som utför golv- och måleriarbeten i Göteborg och utmed västkusten. 
                 Min erfarenhet som golvläggare sträcker sig över tio år fördelade mellan Sverige och Norge,
@@ -23,21 +62,21 @@
             </p>
             
             <h2>Tjänster</h2>
+
+	    <ul>
             <li>Lagning och läggning av linoleum- och plastmattor</li>
             <li>Förarbete såsom golv- och väggspackling</li>
             <li>Klickgolv</li>
-            <li>Målning</li>
+	    <li>Målning</li>
             <li>Epoxi</li>
-            
+	    </ul>
+
             <h2>Uppgifter</h2>
             <p>Epost: sunnerang@icloud.com</p>
-            <p>Telefon: 076 706 22 89</p>
-
+            <p>Telefon: +46 76-706 22 89</p>
         </div>
-
     </div>
-    
-    
-    
+
 </body>
 </html>
+
