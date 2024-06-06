@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="carpetlogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0615259"
+     inkscape:cx="103.1534"
+     inkscape:cy="301.45285"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#106e7d;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="M 0,0 H 18.944099 L 50,31.055901 V 50 H 0 Z"
+       id="path2"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#0c5460;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="M 18.944099,31.055901 50,31.052089 18.944099,0.04593757 Z"
+       id="path3"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#083a42;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="M 50,0.04593757 18.944099,0.04974875 50,31.055901 Z"
+       id="path4"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#083a42;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="M 0,58.208336 H 18.944099 L 50,89.264238 V 108.20834 H 0 Z"
+       id="path11"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#0c5460;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="M 18.944099,89.264238 50,89.260426 18.944099,58.254274 Z"
+       id="path12"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#106e7d;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="M 50,58.254274 18.944099,58.258085 50,89.264238 Z"
+       id="path13"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#0c5460;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="M 0,116.41668 H 18.944099 L 50,147.4726 v 18.94411 H 0 Z"
+       id="path14"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#106e7d;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="M 18.944099,147.4726 50,147.46879 18.944099,116.46262 Z"
+       id="path15"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#083a42;stroke:#3cb1c3;stroke-width:0;stroke-linecap:square;stroke-dasharray:none"
+       d="m 50,116.46262 -31.055901,0.004 L 50,147.4726 Z"
+       id="path16"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
