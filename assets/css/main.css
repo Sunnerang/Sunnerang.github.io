@@ -2883,7 +2883,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				width: 21em;
+				width: 23em;
 			}
 
 				#header > header {
@@ -2921,7 +2921,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				width: 20em;
+				width: 23em;
 			}
 
 		/* Wrapper */
@@ -3177,11 +3177,11 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				width: 17em;
-				-moz-transform: translateX(17em);
-				-webkit-transform: translateX(17em);
-				-ms-transform: translateX(17em);
-				transform: translateX(17em);
+				width: 23em;
+				-moz-transform: translateX(23em);
+				-webkit-transform: translateX(23em);
+				-ms-transform: translateX(23em);
+				transform: translateX(23em);
 				right: 0;
 			}
 
